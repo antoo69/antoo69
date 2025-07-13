@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://count.getloli.com/get/@antoo69?theme=rule34" alt="visitor count"/>
+</p>
+
+<div align="center">
+
 
 ## 🌐 Socials:
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@fsyrl) 
